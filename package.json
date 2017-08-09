@@ -1,0 +1,26 @@
+{
+  "name": "javascript-benchmarks",
+  "version": "1.0.0",
+  "description": "javascript benchmarks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryerh/javascript-benchmarks.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "ryerh@live.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryerh/javascript-benchmarks/issues"
+  },
+  "homepage": "https://github.com/ryerh/javascript-benchmarks#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
